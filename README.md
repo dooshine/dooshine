@@ -1,11 +1,11 @@
-<h1 align="left">Yoonki Du - </h1>
-<h3 align="left">Contact <img src="https://img.shields.io/badge/yooniquedu@gmail.com-4285F4?style=flat-square&logo=google&logoColor=white"/></h3>
+<h1 align="left">Yoonki Du</h1>
+<h4 align="left">Contact &nbsp;<img src="https://img.shields.io/badge/yooniquedu@gmail.com-4285F4?style=flat-square&logo=google&logoColor=white"/></h4>
 <h3>
   WEB Developer
 </h3>
 <ul>
-  <li>열정적인 웹 개밸자</li>
-  <li>소통하고 협력하는 개발자</li>
+  <li>검증을 통한 책임있는 서비스를 제공하는 개발자</li>
+  <li>팀원들과 발맞추고자 하는 개발자</li>
 </ul>
 <p align="left">
 </p>
